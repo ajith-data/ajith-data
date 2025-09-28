@@ -1,4 +1,5 @@
 👋 Hi, I'm Ajith
+
 Welcome to my Data Analyst portfolio! I'm currently a final-year student passionate about turning raw data into meaningful insights. This repository showcases my skills in data analysis, visualization, and storytelling using tools like MS Excel, MySQL, Python, Statistics, and Power BI.
 
 🧠 About Me
