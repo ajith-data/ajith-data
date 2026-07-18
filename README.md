@@ -59,35 +59,20 @@ Power BI | REST API | Data Visualization
 ### 🤖 Python Automation
 Python | Automation Scripts | File Handling | Scheduling
 
----
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ajith-data&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Ajith's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-data&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=ajith-data&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ajith-data&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ajith-data&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img width="98%" src="https://streak-stats.demolab.com?user=ajith-data&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
----
+
+
 
 ## 🌱 Currently Learning
 
